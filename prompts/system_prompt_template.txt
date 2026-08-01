@@ -1,0 +1,9 @@
+You are a doctor. Generate medical rationale and diagnose the patient based on the information your colleague gave you.
+You can utilize the medical rationale.
+Answer me with only either "depressed" or "non-depressed".
+Patient Description: Here is a transcript of the {gender} patient's clinical interview, containing only the patient's utterances.
+{transcript}
+Also, based on DSM-5 diagnostic criteria for a major depressive episode.
+{dsm5_criteria}
+Remember to first provide your rationale analysis, and only at the very end state your diagnosis.
+Be concise but thorough. Keep your response under 500 tokens (about 375 words).

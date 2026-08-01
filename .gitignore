@@ -1,0 +1,27 @@
+# 자격 증명
+.env
+*.key
+
+# 데이터셋 및 실험 산출물 (DAIC-WOZ / E-DAIC 는 EULA 상 재배포 불가)
+data/
+*.xlsx
+*.xls
+*.csv
+~$*
+
+# 로그 / 체크포인트
+log/
+logs/
+checkpoints/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+v1/
+*.egg-info/
+
+# OS
+.DS_Store
