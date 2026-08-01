@@ -158,12 +158,3 @@ A minimal one-shot check that the API and prompt wiring work:
 (DeepSeek-V3). Because generation is sampled at temperature 1.0, regenerated rationales
 will not match the published ones token for token; the reported metrics come from the
 prediction files produced by the runs described above.
-
-## Citation
-
-    @article{,
-      title   = {},
-      author  = {},
-      journal = {},
-      year    = {},
-    }
