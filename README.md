@@ -1,8 +1,6 @@
 # DSM-Guided Prompting for Mental Health Assessment
 
-Python code for DSM-guided prompting with large language models on clinical interview
-transcripts (DAIC-WOZ and E-DAIC), covering six prompting conditions (Experiments 1–6),
-LLM-based rationale selection, and evaluation.
+Python Code for DSM-Guided Large Language Model Reasoning for Depression and PTSD Assessment From Psychiatric Interview Transcripts (IEEE Access)
 
 ## Setup
 
